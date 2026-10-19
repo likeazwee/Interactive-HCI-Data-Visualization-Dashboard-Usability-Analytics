@@ -1,0 +1,401 @@
+Tanggal,Wilayah,Kategori,Skor_Kepuasan,Waktu_Respon_Jam,Status
+July 2026,Wilayah Barat,Infrastruktur Jalan,3.11,30,Selesai
+April 2026,Wilayah Barat,Infrastruktur Jalan,2.9,3,Selesai
+November 2026,Wilayah Utara,Kesehatan & Fasilitas,2.97,45,Selesai
+August 2026,Wilayah Timur,Infrastruktur Jalan,3.21,14,Selesai
+May 2026,Wilayah Selatan,Layanan Kebersihan,2.93,30,Selesai
+July 2026,Wilayah Utara,Infrastruktur Jalan,4.74,4,Dalam Proses
+October 2026,Wilayah Barat,Layanan Kebersihan,2.7,18,Selesai
+March 2026,Wilayah Timur,Layanan Kebersihan,3.81,37,Perlu Tindakan
+July 2026,Wilayah Utara,Kesehatan & Fasilitas,3.53,25,Selesai
+November 2026,Wilayah Timur,Infrastruktur Jalan,4.96,1,Dalam Proses
+November 2026,Wilayah Utara,Kesehatan & Fasilitas,2.78,46,Selesai
+August 2026,Wilayah Timur,Infrastruktur Jalan,3.49,15,Dalam Proses
+May 2026,Wilayah Barat,Infrastruktur Jalan,4.92,9,Dalam Proses
+April 2026,Wilayah Selatan,Penerangan Jalan,4.66,15,Selesai
+August 2026,Wilayah Barat,Infrastruktur Jalan,4.54,24,Selesai
+August 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.14,4,Selesai
+March 2026,Wilayah Timur,Layanan Kebersihan,2.93,12,Selesai
+June 2026,Wilayah Utara,Infrastruktur Jalan,4.17,37,Selesai
+May 2026,Wilayah Barat,Penerangan Jalan,4.82,37,Selesai
+February 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.89,43,Selesai
+August 2026,Wilayah Barat,Infrastruktur Jalan,3.93,6,Selesai
+December 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.2,39,Dalam Proses
+June 2026,Wilayah Barat,Penerangan Jalan,4.42,46,Dalam Proses
+February 2026,Wilayah Selatan,Penerangan Jalan,2.97,24,Perlu Tindakan
+December 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.31,11,Selesai
+May 2026,Wilayah Timur,Infrastruktur Jalan,3.56,13,Selesai
+January 2026,Wilayah Selatan,Layanan Kebersihan,3.77,34,Selesai
+December 2026,Wilayah Timur,Penerangan Jalan,3.11,25,Selesai
+October 2026,Wilayah Selatan,Infrastruktur Jalan,2.79,7,Dalam Proses
+June 2026,Wilayah Utara,Infrastruktur Jalan,4.03,4,Selesai
+December 2026,Wilayah Utara,Layanan Kebersihan,3.22,8,Dalam Proses
+September 2026,Wilayah Utara,Penerangan Jalan,3.95,20,Selesai
+January 2026,Wilayah Selatan,Penerangan Jalan,2.89,29,Selesai
+November 2026,Wilayah Timur,Infrastruktur Jalan,3.7,45,Selesai
+November 2026,Wilayah Timur,Infrastruktur Jalan,3.83,46,Selesai
+October 2026,Wilayah Selatan,Layanan Kebersihan,2.63,10,Selesai
+December 2026,Wilayah Utara,Layanan Kebersihan,3.34,43,Selesai
+December 2026,Wilayah Utara,Penerangan Jalan,2.84,34,Selesai
+March 2026,Wilayah Timur,Kesehatan & Fasilitas,2.66,26,Selesai
+December 2026,Wilayah Utara,Penerangan Jalan,4.97,41,Selesai
+July 2026,Wilayah Barat,Infrastruktur Jalan,3.31,3,Selesai
+April 2026,Wilayah Timur,Penerangan Jalan,4.52,6,Selesai
+September 2026,Wilayah Utara,Kesehatan & Fasilitas,3.14,5,Selesai
+March 2026,Wilayah Timur,Layanan Kebersihan,4.2,5,Dalam Proses
+May 2026,Wilayah Barat,Kesehatan & Fasilitas,4.4,47,Selesai
+March 2026,Wilayah Timur,Kesehatan & Fasilitas,3.99,23,Dalam Proses
+July 2026,Wilayah Timur,Kesehatan & Fasilitas,3.68,9,Selesai
+May 2026,Wilayah Timur,Layanan Kebersihan,3.53,35,Selesai
+September 2026,Wilayah Timur,Kesehatan & Fasilitas,3.37,20,Dalam Proses
+July 2026,Wilayah Barat,Kesehatan & Fasilitas,4.82,42,Selesai
+February 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.58,35,Selesai
+April 2026,Wilayah Timur,Infrastruktur Jalan,4.91,18,Selesai
+September 2026,Wilayah Timur,Kesehatan & Fasilitas,2.81,17,Selesai
+December 2026,Wilayah Utara,Layanan Kebersihan,4.33,24,Selesai
+February 2026,Wilayah Timur,Kesehatan & Fasilitas,4.85,3,Selesai
+October 2026,Wilayah Utara,Kesehatan & Fasilitas,2.95,32,Dalam Proses
+September 2026,Wilayah Selatan,Layanan Kebersihan,2.67,35,Selesai
+October 2026,Wilayah Barat,Kesehatan & Fasilitas,4.35,38,Selesai
+May 2026,Wilayah Barat,Layanan Kebersihan,3.94,13,Selesai
+February 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.6,47,Dalam Proses
+April 2026,Wilayah Barat,Layanan Kebersihan,2.85,25,Selesai
+December 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.49,9,Selesai
+December 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.0,4,Selesai
+July 2026,Wilayah Selatan,Infrastruktur Jalan,2.91,14,Perlu Tindakan
+December 2026,Wilayah Barat,Infrastruktur Jalan,2.91,37,Selesai
+August 2026,Wilayah Utara,Kesehatan & Fasilitas,4.54,34,Selesai
+March 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.16,11,Selesai
+January 2026,Wilayah Timur,Penerangan Jalan,3.81,41,Selesai
+April 2026,Wilayah Barat,Layanan Kebersihan,3.4,3,Selesai
+February 2026,Wilayah Selatan,Penerangan Jalan,4.69,28,Selesai
+August 2026,Wilayah Selatan,Infrastruktur Jalan,3.48,29,Dalam Proses
+April 2026,Wilayah Timur,Infrastruktur Jalan,4.54,9,Dalam Proses
+February 2026,Wilayah Utara,Infrastruktur Jalan,3.6,3,Selesai
+June 2026,Wilayah Utara,Infrastruktur Jalan,3.44,25,Dalam Proses
+June 2026,Wilayah Utara,Kesehatan & Fasilitas,3.66,34,Selesai
+October 2026,Wilayah Selatan,Infrastruktur Jalan,3.25,12,Selesai
+April 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.37,42,Selesai
+June 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.76,9,Perlu Tindakan
+February 2026,Wilayah Barat,Infrastruktur Jalan,3.08,15,Selesai
+October 2026,Wilayah Timur,Infrastruktur Jalan,4.75,40,Selesai
+December 2026,Wilayah Selatan,Layanan Kebersihan,3.46,25,Selesai
+February 2026,Wilayah Timur,Penerangan Jalan,3.86,5,Selesai
+October 2026,Wilayah Timur,Infrastruktur Jalan,4.77,11,Selesai
+April 2026,Wilayah Utara,Layanan Kebersihan,4.06,34,Selesai
+August 2026,Wilayah Barat,Layanan Kebersihan,2.79,24,Selesai
+July 2026,Wilayah Selatan,Penerangan Jalan,4.85,15,Selesai
+December 2026,Wilayah Utara,Kesehatan & Fasilitas,4.07,38,Selesai
+September 2026,Wilayah Utara,Infrastruktur Jalan,3.34,8,Dalam Proses
+August 2026,Wilayah Selatan,Penerangan Jalan,2.85,5,Selesai
+May 2026,Wilayah Timur,Infrastruktur Jalan,4.49,26,Selesai
+February 2026,Wilayah Utara,Layanan Kebersihan,4.05,18,Dalam Proses
+May 2026,Wilayah Timur,Layanan Kebersihan,3.83,6,Selesai
+August 2026,Wilayah Barat,Kesehatan & Fasilitas,4.73,37,Selesai
+October 2026,Wilayah Timur,Layanan Kebersihan,4.47,13,Perlu Tindakan
+September 2026,Wilayah Barat,Layanan Kebersihan,2.88,28,Selesai
+December 2026,Wilayah Timur,Penerangan Jalan,3.28,5,Selesai
+December 2026,Wilayah Utara,Infrastruktur Jalan,3.12,13,Selesai
+December 2026,Wilayah Utara,Infrastruktur Jalan,4.36,17,Selesai
+September 2026,Wilayah Barat,Penerangan Jalan,2.58,40,Selesai
+January 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.92,45,Selesai
+September 2026,Wilayah Barat,Infrastruktur Jalan,4.41,32,Selesai
+July 2026,Wilayah Barat,Layanan Kebersihan,4.69,29,Selesai
+September 2026,Wilayah Timur,Infrastruktur Jalan,3.36,3,Perlu Tindakan
+August 2026,Wilayah Timur,Layanan Kebersihan,4.55,40,Dalam Proses
+January 2026,Wilayah Barat,Kesehatan & Fasilitas,2.78,34,Selesai
+December 2026,Wilayah Utara,Penerangan Jalan,4.62,40,Selesai
+August 2026,Wilayah Timur,Infrastruktur Jalan,2.82,27,Dalam Proses
+August 2026,Wilayah Selatan,Penerangan Jalan,3.49,13,Selesai
+November 2026,Wilayah Timur,Infrastruktur Jalan,4.49,45,Selesai
+March 2026,Wilayah Timur,Layanan Kebersihan,2.87,33,Perlu Tindakan
+January 2026,Wilayah Selatan,Penerangan Jalan,3.07,6,Selesai
+August 2026,Wilayah Barat,Infrastruktur Jalan,4.31,24,Dalam Proses
+March 2026,Wilayah Selatan,Layanan Kebersihan,4.3,19,Perlu Tindakan
+March 2026,Wilayah Barat,Penerangan Jalan,4.1,16,Selesai
+January 2026,Wilayah Barat,Penerangan Jalan,4.23,40,Selesai
+November 2026,Wilayah Barat,Infrastruktur Jalan,3.86,28,Selesai
+May 2026,Wilayah Selatan,Infrastruktur Jalan,3.13,33,Dalam Proses
+October 2026,Wilayah Barat,Infrastruktur Jalan,3.36,41,Dalam Proses
+July 2026,Wilayah Utara,Layanan Kebersihan,2.95,13,Dalam Proses
+October 2026,Wilayah Selatan,Infrastruktur Jalan,4.77,43,Selesai
+September 2026,Wilayah Utara,Penerangan Jalan,3.96,45,Dalam Proses
+December 2026,Wilayah Barat,Penerangan Jalan,3.5,25,Perlu Tindakan
+July 2026,Wilayah Timur,Infrastruktur Jalan,3.66,42,Selesai
+September 2026,Wilayah Barat,Infrastruktur Jalan,4.87,36,Perlu Tindakan
+August 2026,Wilayah Utara,Kesehatan & Fasilitas,2.88,27,Dalam Proses
+December 2026,Wilayah Utara,Penerangan Jalan,3.97,38,Dalam Proses
+February 2026,Wilayah Selatan,Layanan Kebersihan,3.76,7,Selesai
+January 2026,Wilayah Timur,Kesehatan & Fasilitas,4.03,5,Selesai
+July 2026,Wilayah Selatan,Infrastruktur Jalan,2.55,43,Selesai
+July 2026,Wilayah Utara,Infrastruktur Jalan,4.68,45,Selesai
+August 2026,Wilayah Barat,Penerangan Jalan,4.83,31,Selesai
+May 2026,Wilayah Timur,Infrastruktur Jalan,3.91,23,Dalam Proses
+March 2026,Wilayah Barat,Layanan Kebersihan,4.24,42,Perlu Tindakan
+December 2026,Wilayah Barat,Penerangan Jalan,4.81,10,Dalam Proses
+August 2026,Wilayah Timur,Infrastruktur Jalan,4.27,32,Selesai
+June 2026,Wilayah Selatan,Penerangan Jalan,2.88,43,Selesai
+November 2026,Wilayah Barat,Infrastruktur Jalan,3.94,30,Selesai
+March 2026,Wilayah Utara,Infrastruktur Jalan,4.02,39,Dalam Proses
+January 2026,Wilayah Barat,Infrastruktur Jalan,3.56,31,Dalam Proses
+March 2026,Wilayah Timur,Layanan Kebersihan,4.34,18,Perlu Tindakan
+May 2026,Wilayah Timur,Layanan Kebersihan,4.84,36,Selesai
+March 2026,Wilayah Timur,Penerangan Jalan,4.81,2,Perlu Tindakan
+January 2026,Wilayah Selatan,Infrastruktur Jalan,3.63,14,Dalam Proses
+May 2026,Wilayah Barat,Infrastruktur Jalan,2.78,13,Selesai
+October 2026,Wilayah Selatan,Layanan Kebersihan,4.96,29,Dalam Proses
+July 2026,Wilayah Selatan,Infrastruktur Jalan,4.6,12,Selesai
+July 2026,Wilayah Timur,Layanan Kebersihan,2.81,39,Selesai
+November 2026,Wilayah Timur,Infrastruktur Jalan,4.8,2,Selesai
+September 2026,Wilayah Selatan,Penerangan Jalan,4.67,32,Selesai
+October 2026,Wilayah Barat,Infrastruktur Jalan,3.8,13,Selesai
+October 2026,Wilayah Utara,Infrastruktur Jalan,3.98,46,Selesai
+December 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.5,27,Selesai
+March 2026,Wilayah Barat,Layanan Kebersihan,2.64,41,Selesai
+July 2026,Wilayah Timur,Infrastruktur Jalan,3.34,17,Selesai
+January 2026,Wilayah Timur,Infrastruktur Jalan,4.51,40,Selesai
+April 2026,Wilayah Barat,Kesehatan & Fasilitas,2.51,31,Selesai
+April 2026,Wilayah Utara,Kesehatan & Fasilitas,3.33,34,Selesai
+May 2026,Wilayah Timur,Layanan Kebersihan,3.5,24,Selesai
+July 2026,Wilayah Timur,Kesehatan & Fasilitas,3.84,45,Selesai
+July 2026,Wilayah Timur,Penerangan Jalan,4.8,35,Selesai
+November 2026,Wilayah Barat,Kesehatan & Fasilitas,3.37,6,Selesai
+April 2026,Wilayah Selatan,Penerangan Jalan,3.37,19,Dalam Proses
+July 2026,Wilayah Timur,Layanan Kebersihan,4.34,30,Selesai
+November 2026,Wilayah Selatan,Layanan Kebersihan,3.63,7,Selesai
+March 2026,Wilayah Utara,Layanan Kebersihan,3.06,10,Perlu Tindakan
+June 2026,Wilayah Timur,Layanan Kebersihan,3.63,41,Dalam Proses
+December 2026,Wilayah Timur,Layanan Kebersihan,2.85,32,Perlu Tindakan
+February 2026,Wilayah Utara,Penerangan Jalan,2.94,34,Dalam Proses
+October 2026,Wilayah Timur,Penerangan Jalan,3.75,28,Selesai
+September 2026,Wilayah Selatan,Layanan Kebersihan,3.55,15,Selesai
+May 2026,Wilayah Barat,Kesehatan & Fasilitas,4.79,30,Selesai
+June 2026,Wilayah Selatan,Infrastruktur Jalan,3.41,37,Selesai
+December 2026,Wilayah Barat,Layanan Kebersihan,3.95,29,Selesai
+December 2026,Wilayah Barat,Kesehatan & Fasilitas,4.08,22,Selesai
+December 2026,Wilayah Selatan,Infrastruktur Jalan,2.53,4,Selesai
+December 2026,Wilayah Selatan,Layanan Kebersihan,4.16,20,Dalam Proses
+April 2026,Wilayah Selatan,Layanan Kebersihan,2.95,32,Dalam Proses
+November 2026,Wilayah Selatan,Penerangan Jalan,4.9,36,Selesai
+October 2026,Wilayah Utara,Infrastruktur Jalan,2.87,4,Dalam Proses
+July 2026,Wilayah Timur,Infrastruktur Jalan,3.54,27,Selesai
+December 2026,Wilayah Barat,Kesehatan & Fasilitas,2.71,17,Dalam Proses
+September 2026,Wilayah Selatan,Penerangan Jalan,4.99,12,Selesai
+July 2026,Wilayah Selatan,Penerangan Jalan,3.76,22,Perlu Tindakan
+January 2026,Wilayah Selatan,Penerangan Jalan,3.99,17,Dalam Proses
+January 2026,Wilayah Utara,Penerangan Jalan,2.67,10,Selesai
+September 2026,Wilayah Selatan,Infrastruktur Jalan,4.37,1,Selesai
+November 2026,Wilayah Selatan,Infrastruktur Jalan,3.02,22,Selesai
+September 2026,Wilayah Selatan,Layanan Kebersihan,4.75,26,Selesai
+April 2026,Wilayah Timur,Layanan Kebersihan,3.01,18,Selesai
+September 2026,Wilayah Utara,Penerangan Jalan,2.98,14,Selesai
+March 2026,Wilayah Selatan,Penerangan Jalan,2.59,47,Selesai
+July 2026,Wilayah Barat,Penerangan Jalan,3.68,29,Dalam Proses
+June 2026,Wilayah Barat,Layanan Kebersihan,3.91,12,Perlu Tindakan
+August 2026,Wilayah Barat,Kesehatan & Fasilitas,2.66,36,Selesai
+November 2026,Wilayah Utara,Kesehatan & Fasilitas,4.44,35,Selesai
+September 2026,Wilayah Utara,Layanan Kebersihan,3.63,12,Selesai
+May 2026,Wilayah Barat,Layanan Kebersihan,3.81,7,Dalam Proses
+January 2026,Wilayah Selatan,Layanan Kebersihan,3.6,29,Selesai
+March 2026,Wilayah Utara,Layanan Kebersihan,3.5,11,Perlu Tindakan
+October 2026,Wilayah Barat,Layanan Kebersihan,3.9,33,Dalam Proses
+December 2026,Wilayah Barat,Layanan Kebersihan,2.89,6,Selesai
+August 2026,Wilayah Selatan,Penerangan Jalan,2.95,47,Selesai
+November 2026,Wilayah Timur,Penerangan Jalan,4.65,15,Dalam Proses
+June 2026,Wilayah Utara,Penerangan Jalan,4.87,32,Dalam Proses
+August 2026,Wilayah Selatan,Penerangan Jalan,3.43,11,Selesai
+September 2026,Wilayah Barat,Layanan Kebersihan,3.18,23,Selesai
+April 2026,Wilayah Barat,Kesehatan & Fasilitas,4.11,26,Dalam Proses
+January 2026,Wilayah Selatan,Infrastruktur Jalan,3.52,34,Selesai
+January 2026,Wilayah Utara,Layanan Kebersihan,2.56,46,Perlu Tindakan
+October 2026,Wilayah Timur,Infrastruktur Jalan,2.89,34,Selesai
+April 2026,Wilayah Timur,Kesehatan & Fasilitas,4.29,29,Selesai
+December 2026,Wilayah Barat,Penerangan Jalan,4.15,4,Dalam Proses
+July 2026,Wilayah Utara,Kesehatan & Fasilitas,2.57,17,Selesai
+February 2026,Wilayah Timur,Layanan Kebersihan,3.05,35,Selesai
+March 2026,Wilayah Utara,Penerangan Jalan,3.08,13,Selesai
+January 2026,Wilayah Utara,Layanan Kebersihan,4.18,41,Selesai
+May 2026,Wilayah Barat,Penerangan Jalan,2.55,39,Selesai
+January 2026,Wilayah Timur,Infrastruktur Jalan,2.76,15,Selesai
+August 2026,Wilayah Selatan,Infrastruktur Jalan,4.5,29,Selesai
+January 2026,Wilayah Barat,Infrastruktur Jalan,2.95,29,Dalam Proses
+November 2026,Wilayah Timur,Kesehatan & Fasilitas,4.13,11,Selesai
+January 2026,Wilayah Timur,Layanan Kebersihan,3.1,32,Selesai
+February 2026,Wilayah Timur,Kesehatan & Fasilitas,2.75,2,Selesai
+February 2026,Wilayah Timur,Infrastruktur Jalan,3.11,47,Perlu Tindakan
+December 2026,Wilayah Timur,Layanan Kebersihan,4.31,14,Dalam Proses
+June 2026,Wilayah Utara,Infrastruktur Jalan,4.64,20,Selesai
+July 2026,Wilayah Barat,Kesehatan & Fasilitas,4.58,22,Selesai
+May 2026,Wilayah Utara,Kesehatan & Fasilitas,3.49,11,Selesai
+January 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.17,27,Dalam Proses
+January 2026,Wilayah Timur,Infrastruktur Jalan,3.01,3,Dalam Proses
+March 2026,Wilayah Barat,Layanan Kebersihan,3.23,17,Dalam Proses
+February 2026,Wilayah Timur,Layanan Kebersihan,4.74,44,Dalam Proses
+May 2026,Wilayah Barat,Infrastruktur Jalan,2.53,28,Dalam Proses
+December 2026,Wilayah Utara,Layanan Kebersihan,2.71,29,Selesai
+October 2026,Wilayah Barat,Infrastruktur Jalan,3.02,21,Selesai
+June 2026,Wilayah Selatan,Layanan Kebersihan,2.57,47,Selesai
+July 2026,Wilayah Selatan,Penerangan Jalan,2.95,16,Selesai
+April 2026,Wilayah Barat,Penerangan Jalan,3.96,37,Dalam Proses
+July 2026,Wilayah Barat,Kesehatan & Fasilitas,3.55,20,Selesai
+November 2026,Wilayah Barat,Penerangan Jalan,4.73,6,Selesai
+August 2026,Wilayah Barat,Penerangan Jalan,4.54,19,Selesai
+November 2026,Wilayah Selatan,Penerangan Jalan,3.35,5,Selesai
+January 2026,Wilayah Timur,Infrastruktur Jalan,3.15,3,Selesai
+June 2026,Wilayah Barat,Penerangan Jalan,3.45,1,Selesai
+August 2026,Wilayah Barat,Penerangan Jalan,3.98,38,Selesai
+May 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.17,15,Selesai
+April 2026,Wilayah Selatan,Penerangan Jalan,4.06,34,Selesai
+February 2026,Wilayah Utara,Penerangan Jalan,3.52,35,Selesai
+June 2026,Wilayah Barat,Layanan Kebersihan,3.88,25,Selesai
+June 2026,Wilayah Utara,Kesehatan & Fasilitas,3.59,24,Selesai
+November 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.24,12,Selesai
+January 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.87,18,Dalam Proses
+September 2026,Wilayah Timur,Kesehatan & Fasilitas,4.41,15,Selesai
+December 2026,Wilayah Barat,Kesehatan & Fasilitas,2.85,44,Selesai
+November 2026,Wilayah Utara,Kesehatan & Fasilitas,4.67,16,Dalam Proses
+June 2026,Wilayah Selatan,Infrastruktur Jalan,3.72,27,Selesai
+March 2026,Wilayah Selatan,Penerangan Jalan,4.74,8,Selesai
+April 2026,Wilayah Utara,Kesehatan & Fasilitas,4.5,46,Dalam Proses
+December 2026,Wilayah Timur,Penerangan Jalan,3.56,25,Selesai
+November 2026,Wilayah Selatan,Penerangan Jalan,2.56,17,Selesai
+April 2026,Wilayah Barat,Infrastruktur Jalan,3.17,29,Perlu Tindakan
+March 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.85,8,Dalam Proses
+October 2026,Wilayah Barat,Layanan Kebersihan,4.08,15,Selesai
+March 2026,Wilayah Utara,Infrastruktur Jalan,3.14,27,Selesai
+March 2026,Wilayah Barat,Layanan Kebersihan,2.85,46,Selesai
+April 2026,Wilayah Utara,Penerangan Jalan,4.59,7,Selesai
+July 2026,Wilayah Barat,Penerangan Jalan,4.96,3,Selesai
+April 2026,Wilayah Utara,Infrastruktur Jalan,3.81,29,Selesai
+September 2026,Wilayah Barat,Infrastruktur Jalan,2.93,44,Selesai
+January 2026,Wilayah Timur,Layanan Kebersihan,3.18,24,Selesai
+August 2026,Wilayah Barat,Kesehatan & Fasilitas,2.55,3,Dalam Proses
+July 2026,Wilayah Barat,Layanan Kebersihan,4.79,20,Dalam Proses
+February 2026,Wilayah Timur,Infrastruktur Jalan,2.79,46,Selesai
+August 2026,Wilayah Selatan,Layanan Kebersihan,3.94,15,Selesai
+January 2026,Wilayah Selatan,Infrastruktur Jalan,3.19,25,Selesai
+November 2026,Wilayah Barat,Layanan Kebersihan,3.89,30,Selesai
+December 2026,Wilayah Timur,Infrastruktur Jalan,4.13,14,Dalam Proses
+September 2026,Wilayah Barat,Infrastruktur Jalan,4.57,7,Selesai
+September 2026,Wilayah Utara,Infrastruktur Jalan,3.02,17,Selesai
+February 2026,Wilayah Utara,Kesehatan & Fasilitas,2.53,44,Selesai
+July 2026,Wilayah Barat,Layanan Kebersihan,2.84,20,Selesai
+October 2026,Wilayah Selatan,Layanan Kebersihan,4.75,36,Selesai
+March 2026,Wilayah Selatan,Layanan Kebersihan,4.68,9,Selesai
+July 2026,Wilayah Barat,Infrastruktur Jalan,3.99,38,Perlu Tindakan
+December 2026,Wilayah Barat,Layanan Kebersihan,4.0,22,Selesai
+October 2026,Wilayah Utara,Layanan Kebersihan,4.16,2,Selesai
+September 2026,Wilayah Selatan,Infrastruktur Jalan,2.94,24,Selesai
+April 2026,Wilayah Barat,Penerangan Jalan,4.79,8,Selesai
+December 2026,Wilayah Utara,Infrastruktur Jalan,3.55,11,Perlu Tindakan
+January 2026,Wilayah Selatan,Layanan Kebersihan,3.46,13,Selesai
+February 2026,Wilayah Timur,Infrastruktur Jalan,3.8,17,Dalam Proses
+January 2026,Wilayah Utara,Penerangan Jalan,2.62,8,Selesai
+December 2026,Wilayah Selatan,Infrastruktur Jalan,2.92,21,Selesai
+May 2026,Wilayah Selatan,Layanan Kebersihan,4.35,18,Selesai
+May 2026,Wilayah Utara,Penerangan Jalan,2.71,30,Dalam Proses
+November 2026,Wilayah Timur,Kesehatan & Fasilitas,4.01,18,Selesai
+July 2026,Wilayah Utara,Layanan Kebersihan,3.11,46,Selesai
+September 2026,Wilayah Selatan,Penerangan Jalan,3.47,47,Perlu Tindakan
+September 2026,Wilayah Barat,Penerangan Jalan,3.22,31,Selesai
+March 2026,Wilayah Barat,Kesehatan & Fasilitas,3.39,38,Selesai
+March 2026,Wilayah Utara,Infrastruktur Jalan,4.3,32,Selesai
+March 2026,Wilayah Selatan,Infrastruktur Jalan,3.24,11,Perlu Tindakan
+April 2026,Wilayah Barat,Layanan Kebersihan,3.92,45,Selesai
+August 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.69,25,Dalam Proses
+June 2026,Wilayah Utara,Infrastruktur Jalan,4.16,33,Dalam Proses
+August 2026,Wilayah Barat,Kesehatan & Fasilitas,4.84,38,Selesai
+January 2026,Wilayah Selatan,Infrastruktur Jalan,4.33,41,Dalam Proses
+August 2026,Wilayah Barat,Penerangan Jalan,3.04,8,Selesai
+April 2026,Wilayah Utara,Infrastruktur Jalan,2.58,11,Selesai
+November 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.16,22,Dalam Proses
+January 2026,Wilayah Barat,Penerangan Jalan,3.99,24,Dalam Proses
+August 2026,Wilayah Utara,Penerangan Jalan,2.63,41,Selesai
+April 2026,Wilayah Barat,Penerangan Jalan,3.74,17,Selesai
+June 2026,Wilayah Barat,Kesehatan & Fasilitas,3.99,12,Selesai
+August 2026,Wilayah Timur,Layanan Kebersihan,3.34,46,Selesai
+April 2026,Wilayah Timur,Layanan Kebersihan,4.43,32,Selesai
+March 2026,Wilayah Utara,Layanan Kebersihan,2.77,15,Selesai
+September 2026,Wilayah Timur,Kesehatan & Fasilitas,2.69,16,Selesai
+March 2026,Wilayah Utara,Penerangan Jalan,4.32,22,Selesai
+September 2026,Wilayah Timur,Layanan Kebersihan,3.74,28,Selesai
+February 2026,Wilayah Barat,Kesehatan & Fasilitas,4.22,20,Selesai
+February 2026,Wilayah Utara,Layanan Kebersihan,3.59,33,Selesai
+February 2026,Wilayah Utara,Infrastruktur Jalan,3.12,10,Dalam Proses
+June 2026,Wilayah Barat,Layanan Kebersihan,4.55,40,Selesai
+March 2026,Wilayah Utara,Layanan Kebersihan,4.5,32,Perlu Tindakan
+September 2026,Wilayah Utara,Penerangan Jalan,4.24,33,Dalam Proses
+April 2026,Wilayah Timur,Kesehatan & Fasilitas,3.18,2,Selesai
+January 2026,Wilayah Utara,Penerangan Jalan,3.98,33,Dalam Proses
+April 2026,Wilayah Selatan,Penerangan Jalan,3.4,33,Selesai
+January 2026,Wilayah Barat,Penerangan Jalan,2.73,41,Selesai
+May 2026,Wilayah Timur,Penerangan Jalan,4.79,13,Selesai
+April 2026,Wilayah Timur,Penerangan Jalan,2.84,30,Selesai
+August 2026,Wilayah Selatan,Layanan Kebersihan,4.88,33,Selesai
+August 2026,Wilayah Barat,Penerangan Jalan,3.62,13,Selesai
+July 2026,Wilayah Barat,Penerangan Jalan,2.96,26,Selesai
+March 2026,Wilayah Timur,Kesehatan & Fasilitas,3.85,22,Dalam Proses
+January 2026,Wilayah Utara,Infrastruktur Jalan,4.68,39,Selesai
+January 2026,Wilayah Timur,Layanan Kebersihan,4.33,2,Dalam Proses
+December 2026,Wilayah Barat,Layanan Kebersihan,4.52,38,Selesai
+November 2026,Wilayah Selatan,Layanan Kebersihan,4.15,39,Selesai
+March 2026,Wilayah Timur,Penerangan Jalan,4.23,26,Dalam Proses
+June 2026,Wilayah Barat,Penerangan Jalan,4.62,46,Selesai
+July 2026,Wilayah Timur,Penerangan Jalan,3.12,15,Selesai
+June 2026,Wilayah Utara,Kesehatan & Fasilitas,3.72,34,Selesai
+June 2026,Wilayah Timur,Infrastruktur Jalan,3.05,42,Selesai
+June 2026,Wilayah Timur,Penerangan Jalan,4.97,44,Perlu Tindakan
+March 2026,Wilayah Barat,Infrastruktur Jalan,4.86,40,Selesai
+June 2026,Wilayah Barat,Kesehatan & Fasilitas,2.6,11,Perlu Tindakan
+August 2026,Wilayah Barat,Layanan Kebersihan,4.26,3,Selesai
+November 2026,Wilayah Timur,Penerangan Jalan,4.81,6,Selesai
+November 2026,Wilayah Utara,Infrastruktur Jalan,2.95,9,Selesai
+February 2026,Wilayah Selatan,Infrastruktur Jalan,3.92,6,Selesai
+May 2026,Wilayah Selatan,Penerangan Jalan,4.79,9,Selesai
+January 2026,Wilayah Barat,Layanan Kebersihan,2.58,39,Dalam Proses
+December 2026,Wilayah Barat,Layanan Kebersihan,4.24,31,Dalam Proses
+January 2026,Wilayah Timur,Layanan Kebersihan,3.24,32,Selesai
+May 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.81,41,Perlu Tindakan
+December 2026,Wilayah Barat,Infrastruktur Jalan,4.93,12,Dalam Proses
+March 2026,Wilayah Utara,Infrastruktur Jalan,4.86,8,Dalam Proses
+April 2026,Wilayah Utara,Infrastruktur Jalan,3.69,8,Selesai
+March 2026,Wilayah Barat,Kesehatan & Fasilitas,4.66,28,Selesai
+January 2026,Wilayah Barat,Infrastruktur Jalan,4.61,20,Selesai
+January 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.3,47,Selesai
+December 2026,Wilayah Selatan,Layanan Kebersihan,4.57,7,Selesai
+December 2026,Wilayah Timur,Penerangan Jalan,2.59,11,Dalam Proses
+May 2026,Wilayah Selatan,Infrastruktur Jalan,3.99,20,Selesai
+June 2026,Wilayah Utara,Infrastruktur Jalan,3.08,16,Selesai
+March 2026,Wilayah Utara,Layanan Kebersihan,2.8,4,Perlu Tindakan
+December 2026,Wilayah Barat,Penerangan Jalan,2.69,6,Dalam Proses
+September 2026,Wilayah Selatan,Kesehatan & Fasilitas,4.24,22,Selesai
+May 2026,Wilayah Timur,Penerangan Jalan,3.35,26,Dalam Proses
+August 2026,Wilayah Utara,Layanan Kebersihan,4.31,3,Selesai
+January 2026,Wilayah Utara,Layanan Kebersihan,2.66,41,Selesai
+May 2026,Wilayah Timur,Penerangan Jalan,3.29,42,Selesai
+March 2026,Wilayah Timur,Kesehatan & Fasilitas,3.85,14,Selesai
+December 2026,Wilayah Utara,Kesehatan & Fasilitas,4.48,11,Selesai
+January 2026,Wilayah Utara,Infrastruktur Jalan,3.3,18,Selesai
+April 2026,Wilayah Timur,Kesehatan & Fasilitas,4.06,12,Selesai
+May 2026,Wilayah Utara,Penerangan Jalan,4.71,23,Selesai
+July 2026,Wilayah Barat,Layanan Kebersihan,4.04,12,Selesai
+January 2026,Wilayah Barat,Infrastruktur Jalan,3.08,13,Dalam Proses
+March 2026,Wilayah Timur,Infrastruktur Jalan,2.56,25,Selesai
+February 2026,Wilayah Selatan,Layanan Kebersihan,4.68,45,Selesai
+September 2026,Wilayah Timur,Kesehatan & Fasilitas,2.55,19,Selesai
+October 2026,Wilayah Timur,Layanan Kebersihan,4.69,46,Selesai
+June 2026,Wilayah Selatan,Kesehatan & Fasilitas,3.82,36,Selesai
+October 2026,Wilayah Selatan,Layanan Kebersihan,4.85,45,Dalam Proses
+March 2026,Wilayah Selatan,Penerangan Jalan,4.5,8,Selesai
+August 2026,Wilayah Barat,Kesehatan & Fasilitas,4.99,29,Selesai
+August 2026,Wilayah Utara,Penerangan Jalan,3.38,32,Dalam Proses
+February 2026,Wilayah Barat,Infrastruktur Jalan,4.42,44,Selesai
+June 2026,Wilayah Utara,Layanan Kebersihan,3.5,18,Selesai
+July 2026,Wilayah Barat,Infrastruktur Jalan,3.7,6,Selesai
+February 2026,Wilayah Utara,Infrastruktur Jalan,4.07,18,Selesai
+November 2026,Wilayah Barat,Infrastruktur Jalan,4.68,19,Selesai
+October 2026,Wilayah Selatan,Infrastruktur Jalan,4.96,22,Selesai
+February 2026,Wilayah Timur,Layanan Kebersihan,4.42,37,Dalam Proses
+October 2026,Wilayah Barat,Infrastruktur Jalan,3.54,32,Dalam Proses
+January 2026,Wilayah Utara,Layanan Kebersihan,3.55,41,Dalam Proses
+August 2026,Wilayah Selatan,Layanan Kebersihan,4.34,3,Dalam Proses
